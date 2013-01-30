@@ -1,4 +1,4 @@
-jdbc-maxdb-gem
-==============
+# JDBC driver for MaxDB as a Ruby gem
 
-jdbc-maxdb-gem
+This is a Ruby gem that wraps the JDBC driver for the [SAP MaxDB database](
+http://maxdb.sap.com/).
