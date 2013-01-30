@@ -17,7 +17,7 @@ begin
     p.version = version
     p.rubyforge_name = "jruby-extras"
     p.url = "http://www.sap.com"
-    p.author = "TIP Core JS AMD"
+    p.author = "SAP AG"
     p.email = "krum.bakalsky@sap.com"
     p.summary = "MaxDB JDBC driver for Java and MaxDB/ActiveRecord-JDBC."
     p.changes = "Updated to MaxDB version #{Jdbc::MaxDB::VERSION}."
