@@ -3,8 +3,10 @@
 This is a Ruby gem that wraps the JDBC driver for the [SAP MaxDB database](
 http://maxdb.sap.com/).
 
-The MaxDB driver version currently is 7.8.00.17, but you can easily change it
-with a different version by replacing the lib/sapdbc.jar file.
+**Note**: In order to have this gem build, install and work correctly, you would
+need to obtain the JDBC driver of the MaxDB database, and place it under the
+/lib folder of the gem. Please name the file sapdbc.jar, or adjust accordingly
+the gem metadata descriptors which refer to it, if you need it to be different.
 
 This gem is needed by the [ActiveRecord JDBC adapter for MaxDB](
 https://github.com/sapnwcloudlabs/activerecord-maxdb-adapter).
