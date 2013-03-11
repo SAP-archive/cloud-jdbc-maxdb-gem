@@ -21,4 +21,4 @@ you can find the jar in its Eclipse plugins directory.
 Please sync this repo, build the gem from sources and install it:
 
 * `jruby -S gem build jdbc-maxdb.gemspec`
-* `jruby -S gem insta
+* `jruby -S gem install jdbc-maxdb`
