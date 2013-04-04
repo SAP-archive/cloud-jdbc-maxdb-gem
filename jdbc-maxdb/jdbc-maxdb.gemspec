@@ -11,7 +11,7 @@ Gem::Specification.new do |s|
   s.email = %q{krum.bakalsky@sap.com}
   s.extra_rdoc_files = ["Manifest.txt", "README.txt", "LICENSE.txt"]
   s.files = ["Manifest.txt", "Rakefile", "README.txt", "LICENSE.txt", "lib/sapdbc.jar", "lib/jdbc/maxdb.rb"]
-  s.homepage = %q{https://github.com/sapnwcloudlabs/jdbc-maxdb-gem}
+  s.homepage = %q{https://github.com/SAP/cloud-jdbc-maxdb-gem}
   s.rdoc_options = ["--main", "README.txt"]
   s.require_paths = ["lib"]
   s.rubyforge_project = %q{jruby-extras}

@@ -4,7 +4,7 @@ This is a Ruby gem that wraps the JDBC driver for the [SAP MaxDB database](
 http://maxdb.sap.com/).
 
 This gem is needed by the [ActiveRecord JDBC adapter for MaxDB](
-https://github.com/sapnwcloudlabs/activerecord-maxdb-adapter).
+https://github.com/SAP/cloud-activerecord-maxdb-adapter).
 
 **Note**: In order for this gem to be built, installed and to be working correctly, you would
 need to obtain the JDBC driver for the MaxDB database, and place it under the */lib* folder of
